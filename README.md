@@ -112,7 +112,7 @@ A professional single-page application featuring:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/vyomgarud-landing.git
+git clone https://github.com/Ayush-Verma-1613/VyomGarud-Assignment
 cd vyomgarud-landing
 
 # Install dependencies
@@ -275,7 +275,7 @@ const NewSection = () => (
 // Add to App.jsx
 <App>
   <Hero />
-  <NewSection /> {/* Add here */}
+  <NewSection /> 
   <About />
 </App>
 ```
@@ -300,8 +300,6 @@ npm run build
 ```bash
 npm install --save-dev gh-pages
 
-# Add to package.json:
-"homepage": "https://yourusername.github.io/vyomgarud-landing",
 
 
 npm run deploy
@@ -383,21 +381,3 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ---
 
-## 📸 Add Your Screenshots
-
-To add your website screenshots, create a `screenshots/` folder and add these images:
-
-```
-screenshots/
-├── banner.png           # Full website banner (1200x630)
-├── desktop-hero.png     # Hero section desktop view
-├── desktop-capabilities.png  # Capabilities section
-├── mobile-hero.png      # Mobile hero (400x800)
-└── mobile-contact.png   # Mobile contact form
-```
-
-**Screenshot Tips:**
-- Use tools like **Screely**, **Screenshot.rocks**, or **Device Frames**
-- Recommended dimensions: Desktop (1920x1080), Mobile (400x800)
-- Save as PNG for best quality
-- Optimize images before committing (use TinyPNG)

@@ -282,7 +282,6 @@ const NewSection = () => (
 
 ---
 
-## 🚀 Deployment
 
 ### Vercel (Recommended)
 ```bash
@@ -354,9 +353,9 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ## 📞 Contact
 
-**Project Lead:** Your Name  
-**Email:** info@vyomgarud.com  
-**GitHub:** [@yourusername](https://github.com/yourusername)
+**Project Lead:** Ayush Kumar Verma   
+**Email:** ayushverma1613@gmail.com  
+**GitHub:** [Ayush-Verma-1613](https://github.com/Ayush-Verma-1613)
 
 ---
 
